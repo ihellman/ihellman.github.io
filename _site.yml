@@ -1,0 +1,9 @@
+name: "my-website"
+navbar:
+  title: "Ian Hellman"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+      

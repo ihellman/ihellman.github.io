@@ -1,5 +1,165 @@
 ---
-title: "Resume"
+title: ""
 ---
 
-This is my resume.
+&nbsp; 
+
+# Education
+
+------------------------------------------------------------------------
+
+### M.S., Water Resources -- Science and Management Track
+
+University of Idaho*, Moscow, ID --- 2018*
+
+Relevant Coursework Completed: Fluvial Geomorphology and River Mechanics, River Restoration, Hydrologic Applications of GIS and Remote Sensing, Interdisciplinary Methods in Water Resources, Watershed Science and Management
+
+### B.A., Physical Geography -- Natural Resource Management, Geology Minor
+
+Adams State College*, Alamosa, CO --- 2011*
+
+Recipient of Ed Ryan Outstanding Earth Science Student -- Academic Year 2010-2011
+
+### A.A.S., Information Technology -- Networking
+
+Piedmont Virginia Community College*, Charlottesville, VA --- 2008*
+
+&nbsp;  
+
+# Experience
+
+------------------------------------------------------------------------
+
+### Research Specialist
+
+University of Idaho*, Moscow, ID -- ( August 2018 - Present )*
+
+-   Configure, install, and maintain 10 *FTS SedEvent* brand systems with radar-based stage, turbidity, sediment sampler and GOES telemetry
+-   Program, install, and maintain 9 Campbell Scientific meteorological stations including high volume precipitation gages and GOES telemetry
+-   Develop SOPs for all field surveys and equipment visits
+-   Lead multiple crews performing various surveys including temperature via \~300 in-stream and air sensors, riparian cover via hemispherical photography, quantifying large wood recruitment, channel cross sections, and sediment pathway identification
+-   Maintain project GIS using ArcMap, ArcGIS Pro, ArcGIS Online, and QGIS
+-   Develop metadata collection via Survey123, and ArcGIS Collector
+-   Solely responsible for organization, cleaning, and storage of all project data
+-   Creation of R-based data wrangling scripts and data visualization tools for data processing, diagnostics, and QAQC
+-   Assist with study basin selection and identification of intensive study reaches
+-   Unmanned Aerial Vehicle (drone) mission planning, mapping, and photogrammetric processing
+-   Collaborate with industry partners, landowners, and state land managers
+
+### Hydrologic Technician 
+
+U.S. Forest Service Rocky Mountain Research Station*, Boise, ID -- (Jun 2017 - Sep 2017)*
+
+- Collected model calibration data for Geomorphic Road Analysis and Inventory Project (GRAIP) in Idaho, California, and Oregon National Forests
+- Measured road surface erosion grain size distribution from settling tanks and hillslope sediment transport distance
+- Collected extensive road inventory and hydrologic connectivity data with Trimble GPS
+- Repaired and calibrated custom sediment collection equipment
+
+### Per Diem Research Technician
+
+Mountain Studies Institute*, Durango, CO -- (Aug 2015 – Aug 2016)*
+
+- Inventoried and monitored timber and understory for wildfire mitigation study
+
+### Computer Repair Technician
+
+Monument On-Site Computer Repair*, Durango, CO -- (Oct 2015 – Aug 2016)*
+
+- Diagnosed and repaired computer hardware, software, and networking at residential and commercial sites
+
+### Hydrology Internship
+
+U.S. Forest Service & Mountain Studies Institute*, Durango, CO -- (Jun – Aug 2015)*
+
+- Surveyed streams (cross sectional, longitudinal, channel substrate, discharge)
+- Measured discharge of very low-flow, alpine springs
+- Sampled remote, alpine lakes for chemistry analysis
+- Installed staff gage
+- Electroshocking
+- Monitored, inventoried, and rehabilitated wetlands and non-fish bearing streams
+- Collected and organized water rights data using Trimble GPS units and Pathfinder Office
+
+### Wilderness Park Ranger
+
+Zion National Park*, UT -- (Apr – Oct 2010-2014)*
+
+- Patrolled and monitored human impacts in technical slot canyon routes, backcountry hiking trails, and remote Wilderness areas on single and multi-day trips
+- Led technical canyoneering skills courses for park staff and volunteers
+- Issued Wilderness Permits and educated visitors in a fast paced, high volume visitor center (over 13,000 permits per year)
+- Acted as Search and Rescue team member (high angle rigger, ambulance driver, and first responder)
+- Organized Virgin River visitor use data collection for Wild and Scenic River designation
+- Established web-based record keeping to quantify workload and provide future staffing recommendations
+
+### U.S. Forest Service Volunteer
+
+U.S. Forest Service*, Durango, CO -- (Winter 2014)*
+
+- Created GIS geodatabase and map portfolio of regional hydrologic features using ArcGIS
+
+### USGS Water Resources Volunteer
+
+United States Geological Survey*,* *Pueblo and Denver, CO -- (Winter 2012)*
+
+- Collected, analyzed, and performed quality control of atmospheric gas samples and meteorological data
+- Analyzed carbon dioxide and methane samples using gas chromatography
+- Assisted in meteorological station equipment maintenance
+- Measured stream discharge, sediment, and multi-parameter water quality
+
+### Outdoor Program Trip Leader
+
+Adam State Adventure Program*, Alamosa, CO -- (2009–2011*)
+
+- Led backpacking, rock climbing, ice climbing, and kayaking trips.
+
+### IT Support and Customer Service – 
+
+Best Buy*, Charlottesville, VA* and Tri-Dim Filter Corporation*, Louisa, VA -- (2005–2008)*
+
+- Diagnosed, repaired, and customized computer hardware and software in retail store and corporate offices.
+
+&nbsp;
+
+# Publications
+
+------------------------------------------------------------------------
+
+Hellman, I., Heinse, R., Karl, J. W., & Corrao, M. (2020). Detection of terracettes in semi-arid rangelands using Fourier-based image analysis of very-high-resolution satellite imagery. *Earth Surface Processes and Landforms*, *45*(13), 3368–3380.
+
+&nbsp;
+
+# Additional Skills and Certifications
+
+------------------------------------------------------------------------
+
+### Programming and Software
+
+- Very proficient in R and R-Studio environment
+- Data cleaning and QC via scripting
+- Visualization of data via static and interactive figures and tables
+- Script-based report and document creation via R Markdown
+- Setup local, Linux-based Shiny web app server
+- Automated, Linux-based downloading and parsing of GOES telemetry data
+
+### Unmanned Aerial Systems (Drones)
+
+- Mission planning with DJI and 3DR flight equipment and software
+- Flights in remote, steep terrain
+- Collection of RGB and multispectral imagery for creating orthoimagery, terrain models, and point clouds
+- Photogrammetric processing in Agisoft Metashape and Pix4D
+
+### Geospatial
+
+- Geodatabase creation, data input, creating and manipulating shape files, satellite imagery manipulation, DEMs, and spatial analyst tools
+- Remote sensing techniques and analysis using multispectral imagery
+- Spatial, mathematical, and statistical analysis of data
+
+### Certifications/Courses Completed
+
+- Federal Aviation Administration Remote Pilot (Part 107 for Small Unmanned Aircraft Systems)
+- Wilderness First Responder and CPR
+- AIARE Level 1 Avalanche Certification
+- Leave No Trace Trainer
+
+### Other
+
+- ATV (summer and winter) and snowmobile operation

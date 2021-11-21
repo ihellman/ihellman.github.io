@@ -2,8 +2,11 @@ name: "my-website"
 navbar:
   title: "Ian Hellman"
   left:
-    - text: "About"
-      href: index.html
+#    - text: "About"
+#      href: about.html
     - text: "Resume"
       href: resume.html
-      
+output:
+  html_document:
+    theme: cosmo
+  

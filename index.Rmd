@@ -1,15 +1,9 @@
 ---
   title: "Hi, I'm Ian Hellman"
 ---
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
----
+
+------------------------------------------------------------------------
 
 # ![](images/headshowshadow.png)
 
-### A watershed research specialist interested in hydrology, R programming, and actionable science. 
+### A watershed research specialist interested in hydrology, R, and actionable science.

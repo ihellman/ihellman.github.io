@@ -2,4 +2,14 @@
 title: "About This Website"
 ---
 
-More about me.
+<div style= "float:right;position: relative; top: -80px;">
+![](images/headshot.jpg)
+</div>
+
+Ian is a person and this is a short page about him. 
+
+<div style= "float:right;position: relative; top: -80px;">
+![](images/headshot.jpg)
+</div>
+
+Some more stuff. 
